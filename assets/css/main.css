@@ -5,12 +5,16 @@
 }
 div{
   text-align: center;
-  display: inline-block;
-  height: 20px;
+
 }
 .red{
   background-color: red;
 }
 #yellow{
   background-color: yellow;
+}
+.general div{
+  display: inline-block;
+  height: 50px;
+  width: 170px;
 }
