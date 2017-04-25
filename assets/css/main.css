@@ -3,18 +3,14 @@
   padding: 10px;
   font-family: "Raleway", sans-serif;
 }
-h3{
-  height: 40px;
-  width: 400px;
+div{
+  text-align: center;
+  display: inline-block;
+  height: 20px;
+}
+.red{
+  background-color: red;
+}
+#yellow{
   background-color: yellow;
-}
-h1{
-  height: 40px;
-  width: 400px;
-  background-color: red;
-}
-h2{
-  height: 40px;
-  width: 400px;
-  background-color: red;
 }
